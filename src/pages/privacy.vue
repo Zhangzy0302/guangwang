@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Zivio'
+const appName = 'Lilc'
 </script>
 
 <template>
