@@ -426,7 +426,7 @@ const appName = 'Rixlo'
     color: #000;
     margin-left:14px;
     margin-right:14px;
-    background-color: fff;
+    background-color: #fff;
   }
   .bt {
     font-size: 20px;
