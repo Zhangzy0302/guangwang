@@ -422,10 +422,10 @@ const appName = 'Rixlo'
 <style scoped>
   .protocol {
     font-size: 14px;
-    margin-bottom: 14px;
+    padding-bottom: 14px;
     color: #000;
-    margin-left:14px;
-    margin-right:14px;
+    padding-left:14px;
+    padding-right:14px;
     background-color: #fff;
   }
   .bt {
