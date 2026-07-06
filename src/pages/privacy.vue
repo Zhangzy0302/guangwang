@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Test1'
+const appName = 'Rixlo'
 </script>
 
 <template>
@@ -424,13 +424,13 @@ const appName = 'Test1'
     font-size: 14px;
     margin-bottom: 14px;
     color: #000;
-    margin-left:6px;
-    margin-right:6px;
+    margin-left:14px;
+    margin-right:14px;
     background-color: fff;
   }
   .bt {
     font-size: 20px;
-    margin: 6px 0px;
+    margin: 14px 0px;
     color: #7f1146;
   }
 </style>
