@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Folik'
+const appName = 'FokChat'
 </script>
 
 <template>
